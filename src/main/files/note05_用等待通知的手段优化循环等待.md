@@ -47,7 +47,7 @@ notifyAll() 来实现通知机制，
 3 何时等待
 4 何时通知
 
-`
+```
 class Allocator {
 
     private List<Object> als;
@@ -69,7 +69,7 @@ class Allocator {
     
     
 }
-`
+```
  
  
  
